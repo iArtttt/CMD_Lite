@@ -1,1 +1,1 @@
-Lite versionf of total commander
+Lite version of of total commander
